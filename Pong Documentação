@@ -1,0 +1,128 @@
+
+PONG 
+Game Design Document
+Versão: 1.0
+
+
+Autores:
+Caio 
+Samia Capistrano 
+Victor
+
+Salvador, 
+Novembro de 2017
+Índice
+
+1.	História	3
+2.	Gameplay	4
+3.	Personagens	5
+4.	Controles	6
+5.	Câmera	7
+6.	Universo do Jogo	8
+7.	Inimigos	9
+8.	Interface	10
+9.	Cutscenes	11
+10.	Cronograma	12
+
+
+	•	História
+
+- Descrição detalhada da história (lembre-se que toda história deve conter um começo, meio e fim);
+
+- A descrição da história deve conter uma breve descrição do ambiente onde o jogo acontece e também dos principais personagens envolvidos na história;
+
+	•	Gameplay
+
+- Descrição da mecânica do jogo;
+
+- Quais são os desafios encontrados pelo jogador e quais os métodos usados para superá-los? 
+
+- Como o jogador avança no jogo e como os desafios ficam mais difíceis?
+
+- Como o gameplay está relacionado com a história? O jogador deve resolver quebra-cabeças para avançar na história? Ou deve vencer chefões para progredir?
+
+- Como funciona o sistema de recompensas? Pontos, dinheiro, experiência, itens colecionáveis, armas, poderes? Quais os benefícios que o jogador tem com cada um desses itens?
+
+- Qual é a condição de vitória? Salvar o universo? Matar todos os inimigos? Coletar 100 estrelas? Todas as alternativas acima?
+
+- Qual é a condição de derrota? Perder 3 vidas? Ficar sem energia?
+
+	•	Personagens
+
+- Descrição das características dos personagens principais (nome, idade, tipo...);
+
+- História do passado dos personagens;
+
+- Personalidade dos personagens;
+
+- Habilidades características de cada personagem (poderes especiais, golpes especiais, armas...);
+
+- Ilustração visual dos personagens;
+
+- Ações que os personagens pode executar (andar, correr, pular, pulo duplo, escalar, voar, nadar...);
+
+- Metricas de gameplay do personagem principal;
+
+	•	Controles
+
+- Como o jogador controla o personagem principal?
+
+- Utilize uma imagem de um joystick ou teclado para ilustrar todos os comandos disponíveis;
+
+	•	Câmera
+
+- Como é a câmera do jogo? Como o jogador visualiza o jogo?
+
+- Ilustre visualmente como o jogo será visualizado;
+
+	•	Universo do Jogo
+
+- Descrição e ilustração dos cenários do jogo; 
+
+- Como as fases do jogo estão conectadas?
+
+- Qual a estrutura do mundo?
+
+- Qual a emoção presente em cada ambiente?
+
+- Que tipo de música deve ser usada em cada fase?
+
+- Inclua ilustrações de todos os mapas e fases do jogo;
+
+	•	Inimigos
+
+- Descrição e ilustração dos inimigos que existem no universo do jogo;
+
+- Em qual ambiente/fase cada inimigo vai aparecer?
+
+- Como o jogado supera cada inimigo?
+
+- O que o jogador ganha ao derrotar cada inimigo?
+
+- Qual o comportamento e habilidades de cada inimigo?
+
+- Qual o comportamento e habilidades de cada inimigo?
+
+	•	Interface
+
+- Design e ilustração do HUD (head-up display);
+
+- Posicionamento dos elementos do HUD;
+
+- Design e ilustração das interfaces do jogo: tela inicial, menu de opções, tela de pause, menu de itens, tela de loading, etc...
+
+	•	Cutscenes
+
+- Descrição dos filmes que serão incluídos no jogo;
+
+- Descrição dos roteiros;
+
+- Qual método será usado para a criação dos filmes?
+
+- Em quais momentos eles serão exibidos?
+
+	•	Cronograma
+
+- Descrição detalhada do cronograma de desenvolvimento;
+
+- Modelo de cronograma:
